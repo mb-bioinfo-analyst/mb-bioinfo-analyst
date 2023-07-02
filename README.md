@@ -74,8 +74,9 @@ How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?s
 
 [RNA-Seq Analysis: A Beginner’s Guide to Understanding Gene Expression Using R](https://rnaseqanalysis.netlify.app/)
 
-[Accessing data from SQL using R](https://mb-bioinfo-analyst.github.io/Tutorials/R2SQL.nb.html)
+[Accessing data from SQL using R](https://mb-bioinfo-analyst.github.io/Tutorials/R2SQL.nb.html)   
 
+[Normalization App!](https://bmustafa12.shinyapps.io/Normalization/)
 
 ---  
 
