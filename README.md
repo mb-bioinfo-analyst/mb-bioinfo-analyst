@@ -68,6 +68,8 @@ How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?s
 
 ## :writing_hand: Contribution to the community:
 
+[Bioinformatics Guide Book (BLOG)](https://bioinfoguidebook.netlify.app/)
+
 [Portfolio](https://mb-bioinfo-analyst.github.io/Portfolio/)
 
 [Publications](https://sites.google.com/view/bilalmustafa/publications?authuser=0)
