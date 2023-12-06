@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am a bioinformatics professional specializing in
 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmustafa1/)    
 
 ---
-## :hammer_and_wrench: Languages & Tools :
+## ![hammer](https://icons8.com/icon/81563/hammer) Languages & Tools :
 
 <p align="center">
   <a href="https://skillicons.dev">
