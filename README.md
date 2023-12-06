@@ -37,7 +37,7 @@
   
 ---
 
-## About Me :
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/person.svg" width="50" height="50"> About Me :
 Welcome to my GitHub profile! I am a bioinformatics professional specializing in genomic data analysis, variant calling, and functional annotation. With expertise in utilizing bioinformatics tools and pipelines, I analyze high-throughput sequencing data to extract meaningful insights. I excel in developing custom scripts and algorithms for data processing, quality control, and downstream analysis. My experience spans diverse biological datasets, including genomics, transcriptomics, and metagenomics. I am knowledgeable in statistical analysis, machine learning, and data visualization techniques, which I apply to drive impactful bioinformatics research. Committed to delivering accurate and reliable results within project timelines, I am open to collaborations and eager to contribute to cutting-edge bioinformatics projects. Let's make a difference together.    
 
 ---   
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am a bioinformatics professional specializing in
 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmustafa1/)    
 
 ---
-## ![hammer](https://icons8.com/icon/81563/hammer) Languages & Tools :
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/hammer.svg" width="50" height="50"> Languages & Tools :
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,7 +56,7 @@ How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?s
 
 ---
 
-## :fire: My Stats :
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/fire-burner.svg" width="50" height="50"> My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mb-bioinfo-analyst)](https://git.io/streak-stats)
 
@@ -66,7 +66,7 @@ How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?s
    
 ---
 
-## :writing_hand: Contribution to the community:
+## <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/hands-bubbles.svg" width="50" height="50"> Contribution to the community:
 
 [Bioinformatics Guide Book (BLOG)](https://bioinfoguidebook.netlify.app/)
 
