@@ -1,4 +1,4 @@
-  [![HitCount](https://hits.dwyl.com/mb-bioinfo-analyst/https://githubcom/mb-bioinfo-analyst.svg?style=flat-square)](http://hits.dwyl.com/mb-bioinfo-analyst/https://githubcom/mb-bioinfo-analyst)
+  [![HitCount](https://hits.dwyl.com/mb-bioinfo-analyst/mb-bioinfo-analyst.svg?style=flat-square)](http://hits.dwyl.com/mb-bioinfo-analyst/mb-bioinfo-analyst)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 
