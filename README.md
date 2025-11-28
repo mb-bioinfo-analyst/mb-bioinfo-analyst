@@ -1,6 +1,6 @@
   [![HitCount](https://hits.dwyl.com/mb-bioinfo-analyst/mb-bioinfo-analyst.svg?style=flat-square)](http://hits.dwyl.com/mb-bioinfo-analyst/mb-bioinfo-analyst)
 <div id="header" align="center">
-  <img src="https://github.com/mb-bioinfo-analyst/mb-bioinfo-analyst/blob/6c08bb41a9be91824c283532235f248565fce736/final.gif" width="100"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 
 
 <div id="badges">
@@ -31,7 +31,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/rgYPePbfAdTboSJsp1/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/mb-bioinfo-analyst/mb-bioinfo-analyst/blob/6c08bb41a9be91824c283532235f248565fce736/final.gif" width="600" height="300"/>
 </div>
 
   
