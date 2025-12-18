@@ -31,7 +31,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://github.com/mb-bioinfo-analyst/mb-bioinfo-analyst/blob/6c08bb41a9be91824c283532235f248565fce736/final.gif" width="600" height="400"/>
+  <img src="https://github.com/mb-bioinfo-analyst/mb-bioinfo-analyst/blob/main/final.gif" width="600" height="400"/>
 </div>
 
   
